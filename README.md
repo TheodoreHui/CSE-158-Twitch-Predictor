@@ -1,20 +1,9 @@
-﻿
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-<a href="#gdcalert3">alert3</a>
-<a href="#gdcalert4">alert4</a>
-<a href="#gdcalert5">alert5</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
+﻿## **Which Twitch is Which?**
 
 
+## Predicting Twitch User Interaction  
 
-## **Which Twitch is Which?**
-
-
-## **Predicting Twitch User Interaction ** 
-
-**Aritra Das, Luke Taylor, Theodore Hui	**
+Aritra Das, Luke Taylor, Theodore Hui
 
 [ardas@ucsd.edu](mailto:ardas@ucsd.edu), [lwtaylor@ucsd.edu](mailto:lwtaylor@ucsd.edu), [tchui@ucsd.edu](mailto:tchui@ucsd.edu)  
 
