@@ -39,18 +39,13 @@ For the basic exploratory analysis, I created the probability distribution for t
 **Figure 1. Distribution of User Watch Time**
 
 
+![alt_text](images/Aspose.Words.2eaf73f7-4ab0-4d26-b60d-498394db4721.001.jpeg "image_tooltip")
 
-<a href="images/Aspose.Words.2eaf73f7-4ab0-4d26-b60d-498394db4721.001.jpeg"></a>
 
 
 As we can see from the graph above, most interactions between users and streamers are less than 30 minutes. This indicates that people watch individual streams in short bursts, but there also exists a small subset of users who watches a single stream from extended periods of time, longest a person has watched a streamer is 970 minutes
 
 **Figure 2. Distribution of Unique Streamers Watched by Users and Interactions**
-
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 ![alt_text](images/Aspose.Words.2eaf73f7-4ab0-4d26-b60d-498394db4721.002.jpeg "image_tooltip")
 
@@ -59,39 +54,26 @@ The distribution of unique streamers watched by the users shows that most users 
 
 **Figure 3. Distribution of Watchtime by Popularity Percentile**
 
+![alt_text](images/Aspose.Words.2eaf73f7-4ab0-4d26-b60d-498394db4721.003.jpeg "image_tooltip")
+
 We decided to graph the percentage of all of Twitch's watch time over the popularity percentile of twitch streamers to see how much watch time and interactions the top one or five percent of twitch streamers drive to the platform. We wanted to know this information to see whether or not our baseline model, recommending the current top channel would be a good model. This finding boosted our confidence for the baseline model as such a large portion of 
 
 watch time. This popularity figure also reinforces the idea that we should not predict streamers that are below the 90th percentile as the probability of a user watching these streamers is less than 10%.
 
 **Figure 4. Distribution of Watch Time v.s. Hour**
 
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
+![alt_text](images/Aspose.Words.2eaf73f7-4ab0-4d26-b60d-498394db4721.004.jpeg "image_tooltip")
 
 
 With the distribution of watch time by the time of day we see that twitch streamers peak near 9 P.M. in the night and trough at 10 A.M. This insight and trend in the watching habits of users might improve the accuracy of our prediction, as it suggests the relative time of day might play a role on which streamer to recommend.  \
 **Figure 5. Distribution of Watch Time v.s. Day**
 
-
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.png "image_tooltip")
+![alt_text](images/Aspose.Words.2eaf73f7-4ab0-4d26-b60d-498394db4721.005.jpeg "image_tooltip")
 
 
 **Figure 6. Distribution of Watch Time v.s. Week**
 
-
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image5.png "image_tooltip")
+![alt_text](images/Aspose.Words.2eaf73f7-4ab0-4d26-b60d-498394db4721.006.jpeg "image_tooltip")
 
 
 Breaking the week into days and averaging watch time per day didn’t yield any interesting results. Watch time per day was evenly distributed. (accounting for the extra day in the 43-day period, 6 weeks + 1 day)
