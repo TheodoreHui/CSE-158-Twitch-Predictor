@@ -1,0 +1,20 @@
+{
+  "151587550": 
+    [(5, "Good job catching significant trends in your data! Identifying the difference in ratio of positive to negative labels compared to the real world was a good catch."),
+     (5, "Rigorous exploration of vectorization techniques"),
+     (4, "Nice exploration of fast modeling techniques, would have liked to have seen at least an attempt at a more complex model such as an MLP ,which was mentioned but never addressed"),
+     (3, "Would have liked to have seen more engagement with formal studies rather than tutorials and towardsdatascience article, only used one which was briefly mentioned"),
+     (5, "Very good exploration of testing the effects of how having different ratios of labeling affected different models")],
+  "151431581": 
+    [(5, "Super cool exploration of data, loved the graphs, especially figure 4"),
+     (4, "Good inclusion of metadata in vector, although text vectorization is in the wrong section"),
+     (3, "Would have liked to have seen an attempt at more complext models such as an MLP, SVM"),
+     (5, "Good engagement with adjacent literature despite lack of exact task"),
+     (5, "Good critical thinking when analyzing results, especially in case of usage of stopwords in unigram vs n-gram models")],
+  "151589033": 
+    [(5, "Great data exploration, loved the graphs and specificity"),
+     (5, "Awesome baseline models, very well thought out plan"),
+     (5, "Great spread of models used, as well as feature use. Very thorough and comprehensive."),
+     (5, "Awesome engagement with similar reports, very good analysis and good conclusions drawn from adjacent literature"),
+     (5, "Great improvement on baseline model, as well as good explanations of why different models performed how they did")]
+}
